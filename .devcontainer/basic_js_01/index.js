@@ -1,13 +1,3 @@
-console.log("protin")
+let name = protin ;
 
-console.log("hello coding world")
-
-
-
-
-console.log("hello java script")
-
-
-console.log("programming language")
-
-console.log("hiiiiiiiiiiiiii")
+console.log(name.length)
